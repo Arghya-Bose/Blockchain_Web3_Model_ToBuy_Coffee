@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fund Me</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f2f2f2;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    h1 {
+      margin-bottom: 20px;
+      color: #333;
+    }
+
+    label {
+      margin-top: 20px;
+      font-size: 16px;
+      color: #555;
+    }
+
+    input {
+      padding: 10px;
+      font-size: 16px;
+      width: 200px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      margin-top: 8px;
+    }
+
+    button {
+      margin-top: 15px;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    button:disabled {
+      background-color: #aaa;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Buy a Coffee ☕</h1>
+
+  <button id="connectButton">Connect</button><br>
+  <button id="balanceButton">Get Balance</button><br>
+
+  <label for="ethAmount">ETH Amount</label><br>
+  <input id="ethAmount" placeholder="0.1" /><br>
+
+  <button type="button" id="fundButton">Buy Coffee</button>
+
+  <button id ="withdrawButton">Withdraw</button>
+
+  <script src="./index-js.js" type="module"></script>
+</body>
+</html>
