@@ -30,4 +30,17 @@
 ![image](https://github.com/user-attachments/assets/932acaaa-f1e0-4557-a2c1-443c81e608ba)
 
 
+➡️  Transaction Hash and Balance
+![image](https://github.com/user-attachments/assets/7ad9e11a-46e4-4132-936b-5a558c445073)
+
+
+
+
+
+
+
+The End✅
+
+
+
 
