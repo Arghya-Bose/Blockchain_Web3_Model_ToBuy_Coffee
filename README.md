@@ -1,3 +1,5 @@
+==>> Please don't share your "Private Key" if there is real 'Money'
+
 1: connect ✅
 2: buy coffee ✅
 3: get balance ✅
@@ -19,5 +21,13 @@
 
 ➡️ Connected to the Metamask
 ![image](https://github.com/user-attachments/assets/80866c45-62ad-4dd0-bbef-dcf3d4e6802b)
+
+
+
+
+
+➡️ Request to buy coffee by 1ETH
+![image](https://github.com/user-attachments/assets/932acaaa-f1e0-4557-a2c1-443c81e608ba)
+
 
 
